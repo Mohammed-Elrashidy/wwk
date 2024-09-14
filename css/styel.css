@@ -1,0 +1,117 @@
+body {
+    background-color: rgba(62, 58, 58, 0.499);
+
+}
+
+.div1 {
+    background-color: gray;
+    width: 400px;
+    height: 850px;
+    border-radius: 10px;
+}
+.fl1 {
+background-color: rgb(72, 75, 74);
+border-radius: 10px;
+color:rgb(215, 204, 204)
+}
+
+.tit1{
+    background-color:  rgb(72, 75, 74);
+    color:rgb(215, 204, 204)
+
+}
+
+.par1{
+    background-color: rgb(72, 75, 74);
+    color:rgb(215, 204, 204)
+}
+
+.tit2{
+    background-color:  rgb(72, 75, 74);
+    color:rgb(215, 204, 204)
+
+}
+
+.par2{
+    background-color: rgb(72, 75, 74);
+    color: rgb(215, 204, 204)
+
+}
+
+.link1{
+    background-color:rgb(72, 75, 74);
+    width: 20px;
+    font-size: 20px;
+    color:rgb(215, 204, 204)
+
+}
+.link2{
+    background-color: rgb(72, 75, 74);
+    width: 20px;
+    font-size: 20px;
+    color:rgb(215, 204, 204)
+
+}
+
+.div2{
+    background-color: gray;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.tit3{
+    background-color:rgb(72, 75, 74);
+    color: rgb(215, 204, 204)
+
+}
+
+.link3{
+    background-color:rgb(72, 75, 74);
+    font-size: 20px;
+    color:rgb(215, 204, 204)
+}
+
+.div3 {
+    background-color: gray;
+    width: 400px;
+    height: 220px;
+    border-radius: 10px;
+
+}
+
+.tit4{
+    background-color: rgb(72, 75, 74);
+    border-radius: 10px;
+    color: rgb(215, 204, 204);
+
+}
+
+.lab1{
+    background-color:  rgb(72, 75, 74);
+    color: rgb(215, 204, 204);
+
+}
+
+.lab2{
+    background-color:  rgb(72, 75, 74);
+    color: rgb(215, 204, 204);
+
+
+}
+.inp1{
+    background-color: rgb(72, 75, 74);
+    border-color:rgb(72, 75, 74);
+
+}
+.inp2{
+background-color: rgb(72, 75, 74) ;
+border-color: rgb(72, 75, 74);
+}
+
+.but1{
+background-color:rgb(72, 75, 74);
+border-color:rgb(72, 75, 74);
+font-size: 20px;
+color: rgb(215, 204, 204);
+}
